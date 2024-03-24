@@ -1,7 +1,8 @@
 ![Header](https://github.com/Alishiwka/Alishiwka/blob/main/Assets/Header.png) 
 
-## I'm a Quality Assurance engineer
+<link rel="stylesheet" href="./Styles/style.css">
+<p>I'm a Quality Assurance engineer</p>
 
-Tools and Languages
+<p class = "h2">🛠 Technology Stack</p>
 
 Folow me
