@@ -11,7 +11,7 @@
 Если у вас есть вопросы или предложения не стесняйтесь:
 
 - Электронная почта: alihanlolkek3@gmail.com
-- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/alikhan-dzhalbagaev-4135392b9) 
+- LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alikhan-dzhalbagaev-4135392b9/) 
 &nbsp;  
 Благодарю за ваш интерес к моему профилю!
 
