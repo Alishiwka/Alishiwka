@@ -78,5 +78,5 @@
 &nbsp;  
 # Буткемп образование
 
-[![Test-it.kz - Буткемп по подготовке IT специалистов](https://static.tildacdn.pro/tild6539-3537-4233-a337-613062313034/Sign_1.png)](https://test-it.kz/)
+[<img src="https://static.tildacdn.pro/tild6539-3537-4233-a337-613062313034/Sign_1.png" alt="Test-it.kz" width="70">](https://test-it.kz/)
 
