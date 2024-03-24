@@ -1,18 +1,16 @@
 ![Header](https://github.com/Alishiwka/Alishiwka/blob/main/Assets/Header.png) 
 
 
-<p style="font-size: 20px; font-weight: 600;">I'm a Quality Assurance engineer</p>
----
-<p style="font-size: 40px; font-weight: 700;" class = "h2">🛠 Technology Stack</p>
+### I'm a Quality Assurance engineer
 
-## Data 
-<div class="badge">
-    <img style="margin-left: 5px; height: 50px; width: 50px; border-radius: 5px; padding: 3px; background-color: #e1e1e1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql"/>&nbsp
-    <img style="margin-left: 5px; height: 50px; width: 50px; border-radius: 5px; padding: 3px; background-color: #e1e1e1;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="ms-sql" alt="ms-sql"/>&nbsp
-    <img style="margin-left: 5px; height: 50px; width: 50px; border-radius: 5px; padding: 3px; background-color: #e1e1e1;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dbeaver/dbeaver-original.svg" title="dbeaver" alt="dbeaver"/>&nbsp
-    <img style="margin-left: 5px; height: 50px; width: 50px; border-radius: 5px; padding: 3px; background-color: #e1e1e1;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" class="alt"/>&nbsp
+<h2 style="font-size: 2em; text-decoration: none;">🛠 Technology Stack</h2>
 
+## 📁 Docs:
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
+  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
 
-Folow me
 
+Folow me
